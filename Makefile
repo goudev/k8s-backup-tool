@@ -6,7 +6,7 @@ BUILD=go build
 DIST=dist
 
 # Nome do arquivo de saída
-NAME=sysctl
+NAME=cluster-backup-tool
 
 # Compilação para Linux 64 bits (x86)
 linux-x86:
